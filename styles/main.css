@@ -1,0 +1,51 @@
+.page,
+hi,
+h2,
+p{
+    margin: 0;
+}
+
+
+
+
+.page{
+    background-color:orange;
+    line-height: 1.7;
+    font-size: 100%;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.responsive-img{
+    max-width: 100%;
+    height: auto;
+}
+
+.page_wrapper{
+    background: white;
+    margin-top: 3.4em;
+    margin-top: 3.43m;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1.7em;
+    padding-bottom: 1.7em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    border-radius: 50px;
+    
+}
+hi{
+
+}
+
+h2{
+    
+    margin-bottom: 1em;
+
+}
+p{
+    /*  */
+    margin-bottom: 1.7em;
+}
+
+
